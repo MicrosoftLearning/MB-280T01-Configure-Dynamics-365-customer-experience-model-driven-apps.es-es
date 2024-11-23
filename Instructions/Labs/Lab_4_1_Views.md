@@ -33,14 +33,14 @@ Finalización del Módulo 1 Laboratorio 0: Validar el entorno de laboratorio
 
 ### Tarea n.º 1: Editar las distintas vistas de líneas de gastos
 
-1. Si aún no lo estás, inicia sesión en https://make.powerapps.com.
+1. Si aún no lo has hecho, inicia sesión en  `https://make.powerapps.com`.
 2. Selecciona el entorno al que has importado la solución Informe de gastos en la parte superior derecha si aún no está seleccionada.
 3. En el panel de navegación de la izquierda, selecciona **Soluciones.**
 4. Abre la solución Informe de gastos.
 5. Busca y abre la tabla Línea de gastos.
 6. En Experiencias de datos, selecciona **Vistas**.
 7. Abre la vista **Líneas de gastos activos**.
-8. Haz clic en **Seleccionar columna de vista.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** y **Importe de gastos.**
+8. Haz clic en **Seleccionar columna de vista.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** e **Importe de gastos.**
 9. Busca y selecciona la columna **Fecha de creación**. En el menú que aparece, selecciona **Quitar.**
 10. La vista debe tener las columnas Título de gastos, Fecha de gasto, Descripción del elemento, Tipo de gasto y Importe de gastos en ella.
 11. Selecciona el botón **Guardar y publicar**.
@@ -51,7 +51,7 @@ Después, repetiremos ese proceso para actualizar la vista asociada a la línea 
 ### Tarea n.º 2: Actualizar la vista asociada de la línea de gastos 
 
 1. Busca y abre la vista asociada de línea de gastos.
-2. Haz clic en **Seleccionar columna de vista.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** y **Importe de gastos.**
+2. Haz clic en **Seleccionar columna de vista.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** e **Importe de gastos.**
 3. Busca y selecciona la columna **Fecha de creación**. En el menú que aparece, selecciona **Quitar.**
 4. La vista debe tener las columnas Título de gastos, Fecha de gasto, Descripción del elemento, Tipo de gasto y Importe de gastos en ella.
 5. Selecciona el botón **Guardar y publicar**.
@@ -75,7 +75,7 @@ Por último, repetiremos ese proceso una vez más para actualizar la Búsqueda r
 
 ### Tarea n.º 4: Editar las distintas vistas de informes de gastos
 
-1. Si aún no lo estás, inicia sesión en https://make.powerapps.com.
+1. Si aún no lo has hecho, inicia sesión en  `https://make.powerapps.com`.
 2. Selecciona el entorno al que has importado la solución Informe de gastos en la parte superior derecha si aún no está seleccionada.
 3. En el panel de navegación de la izquierda, selecciona **Soluciones.**
 4. Abre la solución Informe de gastos.
@@ -115,15 +115,15 @@ Por último, repetiremos ese proceso una vez más para actualizar la vista Búsq
 
 ### Tarea n.º 7: Crear una nueva vista denominada Informes de gastos que vencen hoy
 
-1. Si aún no lo estás, inicia sesión en https://make.powerapps.com.
+1. Si aún no lo has hecho, inicia sesión en  `https://make.powerapps.com`.
 2. Selecciona el entorno al que has importado la solución Informe de gastos en la parte superior derecha si aún no está seleccionada.
 3. En el panel de navegación de la izquierda, selecciona **Soluciones.**
 4. Abre la solución Informe de gastos.
 5. Busca y selecciona la tabla Informe de gastos.
 6. En Experiencias de datos, selecciona **Vistas**.
-7. Abra la vista Informes de gastos activos.
+7. Abre la vista Informes de gastos activos.
 8. Selecciona el botón **Guardar como**.
-9. Cambia el nombre a *Informes de gastos que vencen hoy.*
+9. Cambia el nombre a *`Expense Reports Due Today`*.
 10. Selecciona el botón **Guardar**.
 11. En la sección Filtrar por, selecciona **Editar filtros.**
 12. Selecciona el botón **Agregar**. En el menú que aparece, selecciona **Agregar fila.**
