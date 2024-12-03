@@ -53,7 +53,7 @@ Al completar este laboratorio, harás lo siguiente:
 2. Selecciona el entorno al que has importado la solución Informe de gastos en la parte superior derecha si aún no está seleccionada.
 3. En el panel de navegación de la izquierda, selecciona **Soluciones.**
 4. Abre la solución Informe de gastos.
-5. Seleccione **Aplicaciones**.
+5. Selecciona **Aplicaciones**.
 6. Busca la aplicación de Administración de gastos de los empleados.
 7. Selecciona los **Puntos suspensivos verticales**, y en el menú que aparece, selecciona **Editar.**
 8. Selecciona el botón **Agregar página**.
@@ -76,14 +76,14 @@ Al completar este laboratorio, harás lo siguiente:
 2. Selecciona el entorno al que has importado la solución Informe de gastos en la parte superior derecha si aún no está seleccionada.
 3. En el panel de navegación de la izquierda, selecciona **Soluciones.**
 4. Abre la solución Informe de gastos.
-5. Seleccione **Aplicaciones**.
+5. Selecciona **Aplicaciones**.
 6. Busca la aplicación basada en modelo de Administración de gastos de los empleados.
 7. Selecciona los **puntos suspensivos verticales**. En el menú que aparece, selecciona **Reproducir.**
 8. En el grupo Paneles, selecciona el panel del sistema que has agregado en la tarea 3.
 9. Seleccione el botón **Nuevo**.
 10. En el menú que aparece, selecciona **Panel de Dynamics 365.**
 11. Elige **Panel normal de 2 columnas.**
-12. Seleccione el botón **Crear**.
+12. Selecciona el botón **Crear**.
 13. Cambia el nombre del panel a *`Expense Report Dashboard`*.
 14. En la sección superior izquierda, selecciona el **icono Lista.**
 15. Configura la lista como sigue:

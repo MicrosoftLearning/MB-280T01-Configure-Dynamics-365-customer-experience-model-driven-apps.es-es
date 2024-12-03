@@ -62,7 +62,7 @@ En esta tarea, modificaremos el formulario que se usa para agregar elementos de 
 3. En el panel de navegación de la izquierda, selecciona Soluciones.
 4. Abre la solución Informe de gastos.
 5. Busca y abre la tabla Línea de gastos.
-6. En la sección Experiencias de datos, seleccione Formularios y abra el formulario Información con el tipo de formulario Principal. (Importante: Asegúrese de seleccionar el formulario que tiene el tipo de formato Principal).
+6. En la sección Experiencias de datos, selecciona Formularios y abra el formulario Información con el tipo de formulario Principal. (Importante: Asegúrese de seleccionar el formulario que tiene el tipo de formato Principal).
 
 **IMPORTANTE:** Dado que, de forma predeterminada, todos los formularios se denominan Información, asegúrate de comprobar que el formulario que seleccionas sea del tipo de formulario Principal y no cualquier otro. De manera predeterminada, el formulario tiene dos campos: Título del gasto y Propietario.
 
