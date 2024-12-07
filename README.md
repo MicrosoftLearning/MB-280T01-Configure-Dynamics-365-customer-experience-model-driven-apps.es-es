@@ -9,8 +9,8 @@ Si impartes MB-280T01 como parte de la serie MB-280 de 4 cursos, puedes encontra
 - [MB-280T03: Diseñar y ofrecer experiencias de cliente eficaces con Dynamics 365 Customer Insights](https://github.com/MicrosoftLearning/MB-280T03-Design-and-deliver-powerful-customer-experiences-with-Dynamics-365-Customer-Insights)
 - [MB-280T04: Configurar una solución de experiencia del cliente de Dynamics 365](https://github.com/MicrosoftLearning/MB-280T04-Configure-a-Dynamics-365-customer-experience-solution)
 
-## Información de MCT
+## Información para MCT
 
-**¿Es un MCT?** Consulte nuestra [guía de usuario de GitHub para MCT](https://microsoftlearning.github.io/MCT-User-Guide/).
+**¿Eres un MCT?** - Consulta nuestra [guía de usuario de GitHub para MCT](https://microsoftlearning.github.io/MCT-User-Guide/).
 
-Cualquier MCT (Microsoft Certified Trainer) puede enviar una solicitud de cambios al código o al contenido del repositorio de GitHub. Microsoft y el autor del curso evaluarán las prioridades e incluirán contenido y cambios en el código del laboratorio según sea necesario. Puedes enviar errores, cambios, mejoras e ideas. ¿Has encontrado una nueva característica de Azure o Microsoft 365 antes que nosotros? ¡Envíe una nueva demostración!
+Cualquier MCT (Microsoft Certified Trainer) puede enviar una solicitud de cambios al código o al contenido del repositorio de GitHub. Microsoft y el autor del curso evaluarán las prioridades e incluirán contenido y cambios en el código del laboratorio según sea necesario. Puedes enviar errores, cambios, mejoras e ideas. ¿Has encontrado una nueva característica de Azure o Microsoft 365 antes que nosotros? ¡Envía una nueva demostración!

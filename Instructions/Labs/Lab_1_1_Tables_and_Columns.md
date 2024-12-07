@@ -82,7 +82,7 @@ La tabla Informe de gastos contendrá información sobre el informe de gastos qu
 ### Tarea 3: Creación de la columna Importe del gasto
 1. Seleccione + Nueva columna.
 2. Escribe `Expense Amount` en Nombre para mostrar.
-3. En Tipo de datos, seleccione Moneda.
+3. Selecciona Moneda para Tipo de datos.
 4. Seleccione Guardar.
 
 ### Tarea 4: Creación de la columna Descripción del artículo
@@ -124,7 +124,7 @@ La tabla Informe de gastos contendrá información sobre el informe de gastos qu
    - Tipo de gasto
    - Importe del gasto
    - Descripción del elemento
-9. Selecciona el botón **Guardar**.
+9. Seleccione el botón **Guardar**.
 10. Busca la columna **Creado por** y selecciónala.
 11. En el menú que aparece, selecciona **Ocultar.**
 12. Repite los pasos 10 y 11 para quitar las columnas siguientes:

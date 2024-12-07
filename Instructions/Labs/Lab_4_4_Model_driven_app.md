@@ -76,7 +76,7 @@ Por motivos de simplicidad y tiempo, no abordaremos algunas de las columnas de I
     - Nombre del informe: **`New Test Report`**
     - Propósito del informe: selecciona **`Conference`**
     - Fecha de vencimiento del informe: selecciona **`Today's date`**
-4. Seleccione **Guardar y cerrar**. Esto creará el nuevo informe de prueba y debería poder verlo en la vista Informes de gastos activos.
+4. Selecciona **Guardar y cerrar.** Esto creará el nuevo informe de prueba y debería poder verlo en la vista Informes de gastos activos.
 5. Cambia la vista a **Informes de gastos que vencen hoy** con la lista desplegable situada junto a Informes de gastos activos.
 6. Puede agregar más registros de prueba.
 
