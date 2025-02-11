@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-280T01: Configurar aplicaciones basadas en modelo de experiencia del cliente de Dynamics 365
 
 Este repositorio contiene ejercicios y archivos auxiliares para el contenido de aptitudes de Microsoft.
