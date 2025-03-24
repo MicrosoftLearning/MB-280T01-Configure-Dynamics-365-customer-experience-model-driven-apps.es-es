@@ -47,7 +47,7 @@ La tabla Informe de gastos contendrá información sobre el informe de gastos qu
 3. En el panel de navegación de la izquierda, selecciona **Soluciones.**
 4. Busca y selecciona la solución Informe de gastos.
 5. Seleccione el botón **Nuevo**.
-6. En el menú que aparece, ve a **Tabla.** A continuación, selecciona **Establecer propiedades avanzadas.**
+6. En el menú que aparece, ve a **Tabla.** A continuación, selecciona **Tabla (propiedades avanzadas).**
 7. Configura tu nueva tabla de la siguiente manera:
    - Nombre para mostrar: `Expense Line`
    - Nombre en plural: `Expense Lines`
@@ -124,7 +124,7 @@ La tabla Informe de gastos contendrá información sobre el informe de gastos qu
    - Tipo de gasto
    - Importe del gasto
    - Descripción del elemento
-9. Seleccione el botón **Guardar**.
+9. Selecciona el botón **Guardar**.
 10. Busca la columna **Creado por** y selecciónala.
 11. En el menú que aparece, selecciona **Ocultar.**
 12. Repite los pasos 10 y 11 para quitar las columnas siguientes:
