@@ -40,7 +40,7 @@ Finalización del Módulo 1 Laboratorio 0: Validar el entorno de laboratorio
 5. Busca y abre la tabla Línea de gastos.
 6. En Experiencias de datos, selecciona **Vistas**.
 7. Abre la vista **Líneas de gastos activos**.
-8. Haz clic en **Seleccionar columna de vista.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** e **Importe de gastos.**
+8. Haz clic en **Ver columna.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** e **Importe de gastos.**
 9. Busca y selecciona la columna **Fecha de creación**. En el menú que aparece, selecciona **Quitar.**
 10. La vista debe tener las columnas Título de gastos, Fecha de gasto, Descripción del elemento, Tipo de gasto y Importe de gastos en ella.
 11. Selecciona el botón **Guardar y publicar**.
@@ -51,7 +51,7 @@ Después, repetiremos ese proceso para actualizar la vista asociada a la línea 
 ### Tarea n.º 2: Actualizar la vista asociada de la línea de gastos 
 
 1. Busca y abre la vista asociada de línea de gastos.
-2. Haz clic en **Seleccionar columna de vista.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** e **Importe de gastos.**
+2. Haz clic en **Ver columna.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** e **Importe de gastos.**
 3. Busca y selecciona la columna **Fecha de creación**. En el menú que aparece, selecciona **Quitar.**
 4. La vista debe tener las columnas Título de gastos, Fecha de gasto, Descripción del elemento, Tipo de gasto y Importe de gastos en ella.
 5. Selecciona el botón **Guardar y publicar**.
@@ -62,7 +62,7 @@ Por último, repetiremos ese proceso una vez más para actualizar la Búsqueda r
 ### Tarea n.º 3: Actualizar la vista Búsqueda rápida
 
 1. Busca y abre la vista Búsqueda rápida de líneas de gastos activos.
-2. Haz clic en **Seleccionar columna de vista.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** e **Importe de gastos.**
+2. Haz clic en **Ver columna.** Selecciona **Fecha de gasto, Descripción del elemento, Tipo de gasto** e **Importe de gastos.**
 3. Busca y selecciona la columna **Fecha de creación**. En el menú que aparece, selecciona **Quitar.**
 4. La vista debe tener las columnas Título de gastos, Fecha de gasto, Descripción del elemento, Tipo de gasto y Importe de gastos en ella.
 5. En el lado derecho de la pantalla, en la sección Buscar por, selecciona **Editar columnas de tabla de búsqueda.**
@@ -82,7 +82,7 @@ Por último, repetiremos ese proceso una vez más para actualizar la Búsqueda r
 5. Busca y selecciona la tabla Informe de gastos.
 6. En Experiencias de datos, selecciona **Vistas**.
 7. Abre la vista **Informes de gastos activos**.
-8. Haz clic en **Seleccionar columna de vista.** Selecciona **Propósito del informe, Fecha de vencimiento del informe, Total del informe** y **Fecha de última aprobación.**
+8. Haz clic en **Ver columna.** Selecciona **Propósito del informe, Fecha de vencimiento del informe, Total del informe** y **Fecha de última aprobación.**
 9. Busca y selecciona la columna **Fecha de creación**. En el menú que aparece, selecciona **Quitar.**
 10. La vista debe tener las columnas Propósito del informe, Fecha de vencimiento del informe, Total del informe y Fecha de última aprobación.
 11. Selecciona el botón **Guardar y publicar**.
@@ -93,7 +93,7 @@ A continuación, repetiremos ese proceso para actualizar la vista Informes de ga
 ### Tarea n.º 5: Actualizar la vista Informes de gastos inactivos
 
 1. Busca y abre la vista Informes de gastos inactivos.
-2. Haz clic en **Seleccionar columna de vista.** Selecciona **Propósito del informe, Fecha de vencimiento del informe, Total del informe** y **Fecha de última aprobación.**
+2. Haz clic en **Ver columna.** Selecciona **Propósito del informe, Fecha de vencimiento del informe, Total del informe** y **Fecha de última aprobación.**
 3. Busca y selecciona la columna **Fecha de creación**. En el menú que aparece, selecciona **Quitar.**
 4. La vista debe tener las columnas Propósito del informe, Fecha de vencimiento del informe, Total del informe y Fecha de última aprobación.
 5. Selecciona el botón **Guardar y publicar**.
@@ -104,7 +104,7 @@ A continuación, repetiremos ese proceso para actualizar la vista Informes de ga
 Por último, repetiremos ese proceso una vez más para actualizar la vista Búsqueda rápida de informes de gastos activos. Esta es la vista que se usa cada vez que un usuario usa el campo de búsqueda para buscar un informe de gastos específico.
 
 1. Busca y abre la vista Búsqueda rápida de informes de gastos activos.
-2. Haz clic en **Seleccionar columna de vista.** Selecciona **Propósito del informe, Fecha de vencimiento del informe, Total del informe** y **Fecha de última aprobación.**
+2. Haz clic en **Ver columna.** Selecciona **Propósito del informe, Fecha de vencimiento del informe, Total del informe** y **Fecha de última aprobación.**
 3. Busca y selecciona la columna **Fecha de creación**. En el menú que aparece, selecciona **Quitar.**
 4. La vista debe tener las columnas Propósito del informe, Fecha de vencimiento del informe, Total del informe y Fecha de última aprobación.
 5. En el lado derecho de la pantalla, en la sección Buscar por, selecciona **Editar columnas de tabla de búsqueda.**
@@ -126,8 +126,8 @@ Por último, repetiremos ese proceso una vez más para actualizar la vista Búsq
 9. Cambia el nombre a *`Expense Reports Due Today`*.
 10. Selecciona el botón **Guardar**.
 11. En la sección Filtrar por, selecciona **Editar filtros.**
-12. Selecciona el botón **Agregar**. En el menú que aparece, selecciona **Agregar fila.**
+12. Seleccione el botón **Agregar**. En el menú que aparece, selecciona **Agregar fila.**
 13. Selecciona la flecha desplegable en la primera fila en blanco. En el menú que aparece, selecciona la columna **Fecha de vencimiento del informe**.
 14. Cambia el campo Igual a **Hoy.**
-15. Selecciona el botón **Aceptar**.
+15. Seleccione el botón **Aceptar**.
 16. Seleccione el botón **Guardar y publicar**.

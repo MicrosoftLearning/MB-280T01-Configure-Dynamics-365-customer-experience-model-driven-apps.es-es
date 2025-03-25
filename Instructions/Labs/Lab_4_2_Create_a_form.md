@@ -50,7 +50,7 @@ Trabajaremos con los siguientes componentes:
 10. Selecciona la casilla **Mostrar registros relacionados**.
 11. Establece la tabla en **Líneas de gastos (Informe de gastos).**
 12. Establece la vista predeterminada en **Líneas de gasto activas.**
-13. Seleccione **Listo**.
+13. Selecciona **Listo.**
 14. Seleccione el botón **Guardar y publicar** en la parte superior derecha y espere a que se complete la operación.
 15. Selecciona el botón Atrás en la parte superior izquierda de la pantalla. Ahora debería estar de nuevo en los formularios de la tabla Informe de gastos.
 

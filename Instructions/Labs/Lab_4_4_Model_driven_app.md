@@ -36,34 +36,30 @@ Por motivos de simplicidad y tiempo, no abordaremos algunas de las columnas de I
 4. Abre la solución Informe de gastos.
 5. Busca la aplicación *`Employee Expense Management`* que has creado en el último ejercicio.
 6. Selecciona **Editar** para abrir el diseñador de aplicaciones moderno.
-7. Selecciona **Nueva página** en la barra de comandos.
-8. Se abrirá la pantalla **Nueva página**.
+7. En la barra de comandos, selecciona **+Agregar página**.
+8. Se abrirá la pantalla **Agregar página**.
 9. Elige **Tabla de Dataverse.**
 10. Seleccione las tablas siguientes:
     - Informe de gastos
     - Línea de gastos
 11. Asegúrate de que Mostrar en navegación está seleccionado.
 12. Después de seleccionar las 2 tablas, selecciona **Agregar.**
-13. Con los iconos de navegación del panel izquierdo de la pantalla, seleccione **Navegación**.
-14. En el panel de navegación, seleccione **Nuevo grupo** a continuación, donde dice Navegación. Es posible que tenga que expandir el menú de la izquierda.
-15. En la parte derecha de la pantalla, en la sección Opciones de visualización, cambia la propiedad Título a *`Expense Reports`*.
-16. En la sección Navegación, selecciona los **puntos suspensivos (tres puntos)** junto a **Informes de gastos.** En el menú que aparece, selecciona **Subir**. Los informes de gastos ahora deberían aparecer encima de las líneas de gastos en la navegación.
-17. En Navegación, selecciona el formulario **Informes de gastos**.
-18. Ve a la sección En esta aplicación en el lado derecho de la pantalla.
-19. Seleccione **Mostrar más**.
-20. Selecciona los **puntos suspensivos** junto a Formulario de vista rápida de información.
-21. En el menú que aparece, selecciona **Quitar.**
-22. Selecciona los **puntos suspensivos** junto a Formulario de tarjeta de información.
-23. En el menú que aparece, selecciona **Quitar.**
-24. En Navegación, selecciona el formulario **Líneas de gastos**.
-25. Ve a la sección En esta aplicación en el lado derecho de la pantalla.
-26. Seleccione **Mostrar más**.
-27. Selecciona los **puntos suspensivos** junto a Formulario de vista rápida de información.
-28. En el menú que aparece, selecciona **Quitar.**
-29. Selecciona los **puntos suspensivos** junto a Formulario de tarjeta de información.
-30. En el menú que aparece, selecciona **Quitar.**
-31. Seleccione **Guardar** y espere hasta que se guarden los cambios.
-32. Una vez completado el guardado, selecciona el botón **Publicar** para publicar los cambios. Espere a que se complete la publicación.
+13. En Navegación, selecciona el formulario **Informes de gastos**.
+14. Ve a la sección En esta aplicación en el lado derecho de la pantalla.
+15. Seleccione **Mostrar más**.
+16. Selecciona los **puntos suspensivos** junto a Formulario de vista rápida de información.
+17. En el menú que aparece, selecciona **Quitar.**
+18. Selecciona los **puntos suspensivos** junto a Formulario de tarjeta de información.
+19. En el menú que aparece, selecciona **Quitar.**
+20. En Navegación, selecciona el formulario **Líneas de gastos**.
+21. Ve a la sección En esta aplicación en el lado derecho de la pantalla.
+22. Seleccione **Mostrar más**.
+23. Selecciona los **puntos suspensivos** junto a Formulario de vista rápida de información.
+24. En el menú que aparece, selecciona **Quitar.**
+25. Selecciona los **puntos suspensivos** junto a Formulario de tarjeta de información.
+26. En el menú que aparece, selecciona **Quitar.**
+27. Seleccione **Guardar** y espere hasta que se guarden los cambios.
+28. Una vez completado el guardado, selecciona el botón **Publicar** para publicar los cambios. Espere a que se complete la publicación.
 
 ### Tarea 2: Prueba de la aplicación
 **Inicio de la aplicación**
